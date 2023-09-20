@@ -1,0 +1,49 @@
+*   Trying 216.24.57.253:443...
+* Connected to mspprompts.onrender.com (216.24.57.253) port 443 (#0)
+* ALPN: offers h2
+* ALPN: offers http/1.1
+*  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+*  CApath: none
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Cloudflare, Inc.; CN=mspprompts.onrender.com
+*  start date: Sep  7 00:00:00 2023 GMT
+*  expire date: Sep  5 23:59:59 2024 GMT
+*  subjectAltName: host "mspprompts.onrender.com" matched cert's "mspprompts.onrender.com"
+*  issuer: C=US; O=Cloudflare, Inc.; CN=Cloudflare Inc ECC CA-3
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multiplexing
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* h2h3 [:method: POST]
+* h2h3 [:path: /api/v1/prediction/4bfe1969-317a-4850-8ef8-2f5ab838911c]
+* h2h3 [:scheme: https]
+* h2h3 [:authority: mspprompts.onrender.com]
+* h2h3 [accept: */*]
+* h2h3 [content-type: application/json]
+* h2h3 [authorization: Bearer UaC3FCLH9bm9bRTxjM7wQwjtZiAeNlylGidL0/zVwDo=]
+* h2h3 [content-length: 17]
+* Using Stream ID: 1 (easy handle 0x1fdcae80ff0)
+> POST /api/v1/prediction/4bfe1969-317a-4850-8ef8-2f5ab838911c HTTP/2
+Host: mspprompts.onrender.com
+accept: */*
+content-type: application/json
+authorization: Bearer UaC3FCLH9bm9bRTxjM7wQwjtZiAeNlylGidL0/zVwDo=
+content-length: 17
+
+* We are completely uploaded and fine
+* old SSL session ID is stale, removing
+< HTTP/2 200 
+< date: Sat, 16 Sep 2023 16:01:16 GMT
+< content-type: application/json; charset=utf-8
+< cf-ray: 807a539f5cd79d6a-DME
+< cf-cache-status: DYNAMIC
+< access-control-allow-origin: *
+< etag: W/"1fca-CElJyB9KC0PFMM3sxlRUuFcaWlc"
+< vary: Accept-Encoding
+< x-powered-by: Express
+< x-render-origin-server: Render
+< server: cloudflare
+< alt-svc: h3=":443"; ma=86400
+< 
+* Connection #0 to host mspprompts.onrender.com left intact

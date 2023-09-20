@@ -1,0 +1,61 @@
+
+Funnel Definitions
+Question
+Our sales & marketing funnels are set up and tracked from Suspect, Prospect, MQL, SQL, Discovery, Onsite, Technical, Proposal, and Outcome.
+Summary 
+At the foundational level, we are interested in ensuring that the sales funnel is set up, tracked, and defined according to industry standards.  This document will help define and tell you when and how to track and measure.
+Things to Consider 
+Two funnels need to be created, New Business Sales Funnel and the Account Manager Funnel.
+First, let’s look at the New Business Sales Funnel
+* Suspects
+o Your definable market.  For example, all businesses within 40 miles of your location have 15 employees or more and have the SIC codes you desire for your business.
+* Prospects 
+o You have contacted businesses within your suspect list and are aware of your organization.  You have some business intelligence on this prospect and want to pursue them further.  If they are not someone that fits your business model at this time, put them in "Not-a-Fit."
+* Marketing Qualified Lead (MQL)
+o Marketing Qualified Leads have shown interest in your content/company.  They're open to the idea of a sale and have taken an initial step to engage with your business without buying.  While marketing efforts can bring leads in, the lead's behavior is what prompts marketers to consider them an MQL.  They make some active contact action to peruse your service offerings.
+* Sales Qualified Lead (SQL)
+o A sales-qualified lead (SQL) is a prospective customer that has been researched and vetted, first by an organization's marketing department and then by its sales team, and is deemed ready for the next stage in the sales process.  An SQL has displayed intent to buy a company's products and has met an organization's lead qualification criteria, determining whether a buyer is a right fit.  The prospect has gone past the engagement stage and is ready to be pursued for conversion into a full-fledged customer.
+
+* Discovery Appointment (Optional, usually reserved for organizations that use Outsourced Lead Gen)
+o A discovery appointment is used to validate the marketing qualified lead to ensure that it is ready to move to a complete sales qualified lead/onsite assessment.  
+* Onsite Assessment Appointment 
+o This is the needs-based assessment stage.  At this stage, you are learning about the prospect's business, telling them more about how your business operates, and determining the issues holding them back from reaching their business goals in the company.
+* Proposal Meeting
+o The presentation stage shows how you will work with the client and the value you bring to this relationship.
+* Outcome
+o There are several outcomes (Won, Hold, Lost, Old); however, the sales funnel has a huge emphasis on the “Won” track.  
+* Not a Fit 
+o You have contacted these suspects, who are not a fit for your business now.  This section is never in your daily funnel; however, it needs to be in your CRM/PSA for you to track activity.  
+
+Account Manager Funnel
+* Suspects
+o Your definable market.  The definitions change a bit.  This stage of the funnel is for clients that do not have this service/product and have not heard about it yet.
+* Prospects 
+o You have contacted clients and are aware of this new service/product.  You have some business intelligence regarding their interest and want to pursue it further.  If they are not interested at this time, put them in “Client-No-Interest-Now."
+* Sales Qualified Lead (SQL)
+o Sales Qualified Leads have shown interest in the service/product and would like to set up a meeting. 
+* Onsite Assessment Appointment 
+o This is the needs-based assessment stage.  You show the client the service/product at this stage and assess their need/interest.
+* Proposal Meeting
+o This is the presentation stage.  You have determined how to work with the client and deliver a formal proposal of the value you bring using new services/products.  As a backup, you can do the final meeting with Zoom or Teams; however, never email the presentation.  
+* Outcome.
+o There are several outcomes (Won, Hold, Lost, Old); however, the sales funnel has a huge emphasis on the “Won” track.  
+* Not a Fit 
+o You have decided that this client is not a fit for this service/product currently.  Please do not confuse this with Not Interested.  That is a fit who didn't see the value.  That client stays as a prospect for this service/product but returns to the marketing cadence.
+* How to Track
+o In the organization community, all PSA have sales funnel dashboards that are useable at this level.  Tracking deals is the first step in this stage.  The sales funnel should be reviewed weekly with your representative, and this funnel also works for the outside representative.
+
+How to get to level 5
+[  ]	Use your PSA/CRM Funnel Dashboard to set up a Client Account Manager Funnel with standard definitions for our industry.
+[  ]	Use your PSA/CRM Funnel Dashboard to set up a New Business Sales Funnel with standard definitions for our industry.
+
+
+
+1.3.5_SF_SM_Funnel Definitions
+Page 1 of 2	
+	
+
+
+
+
+

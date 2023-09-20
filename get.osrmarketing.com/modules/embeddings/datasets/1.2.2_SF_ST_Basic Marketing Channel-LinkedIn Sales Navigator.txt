@@ -1,0 +1,65 @@
+
+Basic Marketing Channel-LinkedIn Sales Navigator
+Question
+One outbound marketing channel is utilized.  For example, LinkedIn Sales Navigator is being used for 15 minutes per day.
+Summary
+One outbound marketing channel that must not be overlooked for any B2B sales and marketing department is LinkedIn.  Using a LinkedIn Automation tool for automated reach outs is an effective way to increase your personal brand, as well as gain valuable reach and frequency within your target market.  You can search for people you have met or know or build searches and have the platform find people to connect with you.  Spending at least 15 minutes each day searching for these contacts and cultivating a relationship within LinkedIn Sales Navigator is extremely important.
+Things to Consider
+On LinkedIn, you can follow those you feel might be a good fit to do business with, message those people, and share and like their content.  Doing that helps build a rapport with a prospect before making a sales call and pitching them.  In addition to just searching for people and companies that you think might be a good fit for you, you can also build lists within LinkedIn and have the platform search them out for you.  Before you can start building your LinkedIn lists and leveraging your connections, you need to be sure that you are subscribed to the correct level of LinkedIn.  To utilize LinkedIn to its fullest to meet your sales goals, you must subscribe to LinkedIn Sales Navigator. 
+Sales navigator offers your sales team additional enhanced capabilities inside of the platform, for example:
+* Advanced Search Filters 
+* Unlimited number of searches and ability to save your searches
+* A maximum of 10,000 leads can be saved in your account
+* 50 complimentary LinkedIn direct messages each month
+* Custom Lists to track leads
+Alerts on actionable and newsworthy events impacting your leads and accounts (e.g., Mentioned in the News, Lead Recommendations, A Lead has changed jobs)
+To find the correct prospects to target, you must create searches in LinkedIn Sales Navigator.  The search function allows you to designate your search parameters using different characteristics: geography, industry, number of employees, job title, etc.  LinkedIn will search the platform for users with those characteristics in their bio.
+Once you have built and saved your search, you review the list and click on each person's profile.  Once in a profile, you can send a connection request, follow them, and like and share any valuable content that they post.
+Making sure that you are cultivating your LinkedIn connections is an important marketing activity; however, it does take a fair bit of time during your day to perform this task properly.  As in any form of prospecting, you can spend a reasonable amount of time attempting to contact the proper person in an organization before you gain any traction with that suspect.
+LinkedIn Automation Platforms and Setup
+LinkedIn automation platforms allow you to send out multiple connection requests and personalized content and build LinkedIn cadences based on the timeframes and actions you choose and how each prospect interacts with the platform.  You accomplish this by creating campaigns.  From the home screen, you go to Campaigns and click on New Campaign.
+* Examples of LinkedIn Automation companies are Dripify (https://dripify.io/), Konnected (https://kennected.io/), Cleverly (https://www.cleverly.co/) or Octopus (https://octopuscrm.io/), among others.  Most platforms are set up in a similar manner.
+* Also reference document 1.2.2.1_SF_ST_LinkedIn Do’s Don’ts and Messaging when setting up automation trees.
+The next step is to add leads from LinkedIn to the campaign.  Adding leads is where your LinkedIn Sales Navigator subscription is utilized.  You need to toggle back to your Sales Navigator search and copy the URL.
+
+
+
+Name the list something that you will remember and that makes sense when you go back later.  For example, Accountants and the Date, Law Offices in Tuscan, etc., and you paste the URL into the lower box.
+Once you have the list identified, you build the actual structure of the campaign itself.  Campaigns, which can all be called sequences, cadences, or something similar, depending on the platform because they will initiate a sequence of events in a cadence that contacts in the list move through.  They all have templates you can use or build a campaign from scratch and then save that structure as a template for later use.  The actions that are available on most platforms are:
+* Send an Invite
+* Message
+* Like a post
+* View Profile
+* Follow
+* InMail
+* Endorse Skills
+You choose what happens when a prospect actively interacts positively or negatively with your campaign.  There are indications on a contact that has not accepted or not responded, as well as when they have engaged with your efforts.  The system will automatically space out how the steps are performed so that you are not caught in LinkedIn filters.
+Depending on how you have designed your sequence, contacts who interact with your messages and content will receive more personalized messaging to help establish a rapport so you can move them through your sales process.
+Overall, automating LinkedIn drip campaigns can help you save time and effort while effectively reaching out to potential clients or partners on LinkedIn. Just remember to define your objectives, use a marketing automation tool, create a sequence of messages, set up your campaign, and monitor and refine your campaign regularly.
+
+ 
+
+
+
+You can also customize your messaging when choosing your action.  You can also try to be very general and say, "Hello, John, I 'd like to connect".  There are two different schools of thought on what works best so consider doing A/B testing to see what works best in your market.
+If your contact accepts your connection request, you wait for an interval and message them.  At this point, you can write a longer message giving the prospect more information about who you are and what services you offer.  If they do not engage at this point, you send an InMail with a more causal quick hit about what you do.  Be aware that LinkedIn only allows a certain number of InMail messages per day/month.  One way to try to encourage a contact that has not engaged is to like one of their posts and follow them.  They will see that you have attempted to initiate an interaction, and it may help to persuade them to engage with you further.  A typical sequence structure is to send a connection request, like a post, view profile, follow, and then end the sequence.  
+With all platforms, you will be able to see how all your campaigns are performing, along stats and reporting features.  You can also track the engagement and success of individual campaigns.
+Some important things to know, when a suspect messages you personally, no matter where they are in the cadence, the sequence automatically stops so that it does not appear that they are part of an automated system.  Additionally, the need for the sequence becomes moot as you now have a way to connect with them.  An acceptance DOES NOT end the sequence in most platforms; a message back does.
+You can also adjust the settings to lower default limits and can customize the working hours of your day.  Additionally, most have the capability to not allow contacts that have already been in a campaign to be added to another.  You can also further parse your list from this settings screen to narrowly target.
+
+How to get to level 5
+[  ]	Have one targeted, automated campaign that you check on daily (15 minutes per day)
+
+
+1.2.2_SF_ST_Basic Marketing Channel-LinkedIn Sales Navigator		
+Page 1 of 3
+ 
+
+
+
+
+
+
+
+
+

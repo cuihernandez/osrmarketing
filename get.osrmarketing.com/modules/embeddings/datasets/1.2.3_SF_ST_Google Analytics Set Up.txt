@@ -1,0 +1,131 @@
+
+Google Analytics Set Up
+Question
+Google Analytics is monitored monthly, and lead sources are reviewed
+Summary 
+We have searched far and wide to find the best-in-class way to set up your Google Analytics.  A general opinion is SEM Rush has the best breakdown of what to manage as it relates to our industry.
+Things to Consider
+The volume of data provided by Google Analytics makes it an essential component of any website or marketing manager's online toolbox.  In this Google Analytics guide for beginners, we will cover some of the crucial things you need to know about the tool.
+
+What Is Google Analytics?
+
+Google Analytics is the premier analytics platform for tracking site or app performance.  It is part of a range of tools provided by Google that include Google Search Console and Google Tag Manager.  Check out this article, where you can find supporting tools that use Google Analytics: https://marketingplatform.google.com/about/analytics/. 
+The platform provides a complete picture of how your site is performing.  It collects a vast amount of data and processes it intelligently.  It then generates reports to display that data to you.  You can use those reports to gain critical insight into your site and its people.
+Data Collection
+The first element of Google Analytics is data collection.  The platform can gather a broad range of data about your site and how visitors use it.  We will explore in depth the exact nature of the data collected later.  It includes, most notably:
+? How many visitors do your pages get?
+? Where page visitors come from.
+? How visitors progress through your site.
+? What do visitors do on your pages?
+? How visitors interact with elements on your pages.
+? How long do visitors spend on your pages?
+? At what stage of a visit do users leave your site?
+
+Google Analytics uses a simple JavaScript code to gather all this data.  You get that code when you set up Analytics for your website, as will be explained later.  The code is added to every page and puts a cookie in the browser of each site visitor.  The cookie then sends a hit to your Google Analytics that reports each user interaction with your site.
+
+Google Analytics works with three different types of hits, what are they?
+* Pageview Hit — Each time someone visits one of your pages, it contains information like what device and browser visitors are using.  You can also find out which of your pages they visit.
+* Event Hit — A hit sent when a visitor does something on your site.  They might, for instance, fill in a form, click a link or play a video.
+* Transaction/Ecommerce Hit — A hit sent when a site visitor buys something.  Information, such as which pages the visitor went to before buying, can be contained in these hits.  More detailed insights, such as which products they bought or how much they spent, are also provided. 
+
+Data Processing
+Google Analytics doesn't present you with the raw data the platform collects.  It first processes data and then generates reports.  The first stage of data processing is separating data by users and sessions.
+? User Data — This is data on different, distinct visitors to your site.  Google Analytics creates a unique, random user ID for each new visitor to your site.  If the same user revisits your website in the future, Analytics recognizes the user ID. 
+They will then be logged in as a 'returning' visitor; this only works if they visit using the same device.  The process can be subverted if they clear your cookie from their browser cache.
+? Session Data — A session is a period that a user spends on your site.  It begins with a pageview hit when the user first visits the website and continues until they ultimately leave the site.  During each session, Analytics collects various types of session data.
+That session data includes the pages visited, actions taken, and time spent on your site.  You can use this data to gain insights into site user behavior, and it can be critical to understanding site performance, as we'll talk about below. 
+
+Report Generation
+Data Google Analytics processes are presented to you in the form of reports.  These are visual representations of the data, designed to make it easy to ID patterns and gain insights.  Visuals, after all, are known to be more effective at conveying complex ideas.  The following, for instance, is a report showing the number of users a site gets over a period of time:
+
+
+All reports on Google Analytics display a combination of Dimensions and Metrics, and it is essential to know each of these to understand what different reports tell you.
+What are Dimensions and Metrics in Google Analytics? 
+? Dimensions — these are essential attributes of the collected data.  'Country,' for example, is a dimension that may be provided for user data, and it would tell you which countries site users come from.
+? Metrics — These are quantitative measurements; they tell you the number of something.  For example, the 'Sessions' metric tells you how many sessions took place on your site over a period. 
+Google Analytics creates a range of default reports, which we will look at in depth later.  You can also create custom reports that combine different dimensions and metrics.
+Not all dimensions and metrics can be combined into reports.  They each have what is known as a 'scope', which is the level at which their data is collected.  The different scopes are 'user-level,' 'session-level,' and 'hit-level.' Only the dimensions and metrics of the same scope can be combined. 
+Why You Need Google Analytics
+You can use Google Analytics for a range of different purposes.  In the section below, we will quickly review three of the most common applications of Google Analytics.
+
+Analytics For Marketing
+The insights you can gain from Analytics reports can be vital to improving your marketing.  Data collected can help you answer a range of questions about your marketing efforts:
+? How much traffic is driven to your site by different marketing channels?
+? Which websites refer the most visitors?
+? Where do your site visitors live?
+? What is the conversion rate of visitors from other channels?
+The answers to those questions will help you better tailor your marketing efforts.  They can show you the channels to invest in and those to move away from.  They can also help you better define your target audience, amongst many other helpful insights.
+Analytics to Improve Site Performance
+Analytics reports are also perfect for learning about your site and its users.  In this area, the questions that the platform helps you answer are even more plentiful:
+? Which of my pages gets the most traffic?
+? Where on my site do visitors leave?
+? How quickly do my site’s pages load?
+? Are load times longer for visitors using mobile devices?
+
+Those kinds of insights give you practical ways to improve your site performance.  Rather than a vague aim of improving traffic, you can have a more concrete objective.  You might, for instance, learn that your blog posts get a lot of traffic, which could tell you that producing more and promoting them well could help boost traffic even further. 
+
+Analytics to Aid Your SEO
+Google Analytics insights are also invaluable for informing your SEO.  The platform helps answer an array of questions about how users find and interact with your site:
+? How much search traffic is your site getting?
+? Which of your landing pages gets the most traffic?
+? What search queries do visitors use to find your site?
+? What’s your site’s bounce rate for visitors from different sources?
+In SEO, as in many things, information is power.  The more you know about your site visitors and target audience, the better.  Google Analytics is a platform that provides a plethora of data.  Access and assess the correct reports and boost the ROI you see from your SEO efforts. 
+How to Set Up Google Analytics
+Getting started with Analytics is straightforward.  You first need to set up a Google Account.  If you already use Gmail, Google Drive, or other tools, you already have one; if not, it is easy to set one up.  Once you have an account, log in to it to begin setting up GA and adding Google Analytics to a website. 
+The graphic below is from the Google Analytics homepage, showing you the easy three-step process for setting up the platform.  When you are ready, click the signup button, and that will take you to a page where you begin providing information about yourself and what you will be using Analytics for:
+
+This part of the process is no more complicated than following on-screen instructions.  Once you have chosen an account name and made fundamental choices, you select what you want to measure.
+
+The final step in the account setup process is to enter the exact details of the site you need to track.  Once you have created your Analytics account, you can add up to 50 different sites to follow.  For now, enter the URL you want to link to your account. 
+
+Clicking the create button will get your Analytics account up and running.  It will also provide you with your tracking code for the site you chose to track.  That tracking code allows Google Analytics to collect data from visitors to your site.  Your next job is to add the code to your site. 
+How to Add Your Tracking Code
+You need to add your tracking code to every page of your website.  Or at least to every different type of page your site has.  By adding the code to the header or footer, you can add the code to your whole site.
+The tracking code needs to be added right after your header file's < head > tag.  If you have built your site using HTML files, that will mean adding the tag to those files.  If you use a CMS like WordPress, you may also have the option to install Google Analytics via a plugin.  If you search the WordPress plugins page for 'Google Analytics,' you will find a range of options (read the reviews before you choose).  Then, all you need to do is to follow the instructions to install the plugin. 
+You are ready to get started with your Google Analytics account set up and the tracking code added.  Analytics will begin tracking data immediately.  While you wait for site data to build up, a couple of other Analytics features are worth setting up. 
+How to Set Up Site Search
+One of the many valuable yet straightforward features of Analytics is Site Search Tracking.  This feature lets you collect and analyze data on how visitors use your site’s search function.  Once set up, the feature can give you lots of handy information, including:
+
+? Which queries site users search for.
+? How many times are searches undertaken?
+? Which page(s) searches most often lead to
+? How often a visitor leaves your site immediately after performing a search?
+? Which pages do visitors most often start searches from?
+Getting a site search setup is simple and shouldn't take more than a few minutes.  As a starting point, perform a search on your site, and it would help if you took note of the URL generated.  Follow this link for more information: https://support.google.com/analytics/answer/1012264?hl=en#zippy=%2Cin-this-article	
+Open the Admin menu by clicking the cog symbol at the bottom left.  Then choose the 'View Settings' alternative from the 'View' column on the right-hand side of the page; that will open a new menu.  Scroll down until you find a section titled 'Site Search Settings.'
+
+Toggle 'Site Search Tracking' to the on position.  Next, fill in the 'Query Parameter' field.  That is where the search URL you generated earlier comes in.  
+In the 'Query Parameter,' there is an 's.' It indicates the part of the URL which displays the search query.  If that was the URL you generated, you would enter 's' into the 'Query Parameter' field.  Once you click 'Done’, the Analytics site search feature is set up.
+How to Set Up Goals
+Most websites exist with a specific objective in mind.  It may be to get them to buy a product.  Whatever your site's goals, Google Analytics Goals (Google Goals Set Up),  provide a way for you to assess how well it fulfills them.  That makes it another helpful feature to get set up.
+Your first stop is the Admin panel on Analytics.  From there, select the 'Goals' option, as shown above.  That opens a new page on which you should choose the '+ New Goal' button.  You can then decide whether to use an existing goal template or create a custom goal.
+Goal templates will satisfy the needs of most site owners; they are designed to let you track all the standard site goals.  If you wish to create a custom plan, it is easy. 
+First, name the goal.  This name will appear on any reports which include data on the goal, so pick something evident and memorable.  You then need to choose one of the four different types of goals that Analytics allows for:
+
+Every Analytics goal records a conversion when a site user performs a specific action.  Which action that is, depends on the type of goal you choose. 
+? Destination- A conversion is recorded when a user visits a defined URL.
+? Duration- A conversion is recorded
+?  when a user spends a certain amount of time on-site.
+? Pages/Screens per Session- When a user views a pre-set number of pages in a session.
+? Event- When a user performs a specific action.  For instance, they are clicking a link or playing a video.
+Once you have chosen the type of goal you want to create, there are a couple of further steps.  Google Analytics provides on-screen instructions.  In general, you must input the specific details of the goal you want to track.  For instance, for a destination goal, you need to provide the URL to which a visit will trigger a conversion:
+
+Duration and Pages per Session goals are simple to set up.  There are just a few fields to fill in with information about the exact nature of the goals, and event goals are slightly different.  To set them up, you must first set up 'Events' through Analytics, and Google provides a comprehensive guide.
+
+With events set up, things are once again simple.  Choose the event you want a goal to refer to, and then fill in the other simple fields shown above.  Whichever type of goal you've set up, clicking the 'Create Goal' button completes the process.  Data related to the goal will then start being collected by Analytics.
+How to Move to Level 5
+[  ]	Set Up Google Analytics and monitor monthly
+[  ]	Lead sources are tracked
+[  ]	Website has the Google Tags set up
+
+
+
+1.2.3_SF_ST_Google Analytics Set Up
+Page 1 of 2			 
+
+
+
+
+
+

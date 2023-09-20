@@ -1,0 +1,49 @@
+*   Trying 104.18.6.192:443...
+* Connected to api.openai.com (104.18.6.192) port 443 (#0)
+* ALPN: offers h2
+* ALPN: offers http/1.1
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Cloudflare, Inc.; CN=sni.cloudflaressl.com
+*  start date: Mar 28 00:00:00 2023 GMT
+*  expire date: Mar 26 23:59:59 2024 GMT
+*  issuer: C=US; O=Cloudflare, Inc.; CN=Cloudflare Inc ECC CA-3
+*  SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.
+* Using HTTP2, server supports multiplexing
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* h2h3 [:method: POST]
+* h2h3 [:path: /v1/files]
+* h2h3 [:scheme: https]
+* h2h3 [:authority: api.openai.com]
+* h2h3 [accept: */*]
+* h2h3 [authorization: Bearer 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]
+* h2h3 [content-length: 5262]
+* h2h3 [content-type: multipart/form-data; boundary=------------------------29966465db327fb4]
+* Using Stream ID: 1 (easy handle 0x1c3d0d0)
+> POST /v1/files HTTP/2
+Host: api.openai.com
+accept: */*
+authorization: Bearer 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
+content-length: 5262
+content-type: multipart/form-data; boundary=------------------------29966465db327fb4
+
+* We are completely uploaded and fine
+* old SSL session ID is stale, removing
+* Connection state changed (MAX_CONCURRENT_STREAMS == 256)!
+< HTTP/2 400 
+< date: Sat, 26 Aug 2023 17:57:59 GMT
+< content-type: application/json
+< content-length: 256
+< access-control-allow-origin: *
+< openai-version: 2020-10-01
+< openai-organization: user-6tzpoay2yoypqwt2pqmrxffl
+< x-request-id: 853418ee825556028bff9c8f4b02f40f
+< openai-processing-ms: 12
+< strict-transport-security: max-age=15724800; includeSubDomains
+< cf-cache-status: DYNAMIC
+< server: cloudflare
+< cf-ray: 7fcdf5d7f8dd826c-IAD
+< alt-svc: h3=":443"; ma=86400
+< 
+* Connection #0 to host api.openai.com left intact

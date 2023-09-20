@@ -1,0 +1,77 @@
+
+
+Sales Excellence Systems and Tools
+Question: 
+Sales Management analyzes our team's opportunity pipeline stages weekly with metrics compared to industry standards and financial impact to ensure we meet our targets.
+Summary: 
+There are three main components to analyzing opportunities in the sales pipeline in our industry in a best-in-class way.  The three main parts that should be measured are volume, Velocity, and conversation rates.  This article will show the metrics to focus on in the pipeline, how to spot red flags in each area, and what to focus on to fix them.
+
+Things to Consider: 
+The three main areas to focus on in a pipeline metrics system are Volume, Velocity, and Conversation rates (VVC).  
+Before we can dive into the VVC, let’s recap the best-in-class funnel in the organization industry.
+? Discovery Meetings
+o Volume – 8 Meetings per month
+o Velocity – 2 measurements here.  One for historical Velocity and another for funnel speed.
+? Historical Velocity is the number of deals coming to this stage month over month.  
+Formula:  Lead Velocity Rate=((Qualified This month-Last Month)/Last Month)*100
+	Metric is between 6 to 10 per month – averages lower during July and December.
+? Funnel Velocity – the speed of deals moving between the stage.  Discovery Meeting to Technical meeting should be between 5 to 10 days.
+? Six weeks of inactivity from the prospect side is marked an "Old" deal and pushed out of the funnel.
+
+o Conversion Rate – 90% of Booked appointments sit and become Discovery meetings.
+
+
+
+
+? Technical Meetings
+o Volume – 6 Meetings per month
+o Velocity 
+? Historical Velocity is the number of deals coming to this stage month over month.  
+Formula:  Lead Velocity Rate=((Qualified This month-Last Month)/Last Month)*100
+	Metric is between 5 to 7 per month – averages lower during July and December.
+? Funnel Velocity – the speed of deals moving between the stage.  Technical meetings to proposal meetings should be between 5 to 10 days.
+? Six weeks of inactivity from the prospect side is marked an "Old" deal and pushed out of the funnel.
+
+o Conversion Rate – 75% move from discovery to a technical meeting
+
+? Proposals Meetings
+o Volume – 4 Meetings per month
+o Velocity 
+? Historical Velocity is the number of deals coming to this stage month over month.  
+Formula:  Lead Velocity Rate=((Qualified This month-Last Month)/Last Month)*100
+	Metric is between 3 to 5 per month – averages lower during July and December.
+? Funnel Velocity – the speed of deals moving between the stage.  Technical meeting to proposal meeting should be between 5 to 10 days.
+? Six weeks of inactivity from the prospect side is marked an "Old" deal and pushed out of the funnel.
+
+o Conversion Rate – 66% of technical meetings move to proposal meetings
+
+
+
+
+
+? Won Deal
+o Volume – 1 deal per month
+o Velocity
+? Historical Velocity is the number of deals coming to this stage month over month.  
+Formula:  Lead Velocity Rate= ((Qualified This month-Last Month)/Last Month) *100
+	Metric is between 3 to 5 per month – averages lower during July and December.
+? Funnel Velocity – the speed of deals moving between the stage.  Won deals should be between 30 to 45 days.
+? Six weeks of inactivity from the prospect side is marked an "Old" deal and pushed out of the funnel.
+
+o Conversion Rate – 25% of proposal meetings close
+
+ These numbers are for a full-time sales executive role and show the funnel that should be maintained during a month.  This does not mean that these deals will close in a month; instead, out of those eight discovery meetings, one should close in the future.
+
+How to get to level 5: (Checklist of things to do to get to Level 5)
+[]	Build formulas in Excel or CRM to watch for red flags
+
+
+
+PIPELINE STAGES BY FINANCIAL IMPACT
+Page 1 of 2
+
+
+
+
+
+

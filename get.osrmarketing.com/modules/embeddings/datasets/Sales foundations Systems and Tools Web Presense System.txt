@@ -1,0 +1,49 @@
+
+Sales Foundation Systems & Tools
+Question: 
+A web presence monitoring system is used to monitor keywords and competitors.  Moz Free tools with Google Analytics are acceptable at this level.  
+Summary: 
+SEO (Search Engine Optimization) is a critical analytical component in driving potential clients to your organization’s website.  Identifying what keywords prospects use when looking for IT services providers and discovering what your competitors are using to bring opportunities to their websites is vital information.  This information can be used to position your organization better higher up on the search results list.   Some free tools are strong enough to give you great information at the foundational level.
+ 
+Things to Consider: Moz Free Tools
+Moz Free Domain Analysis Tool – This is an excellent tool for businesses looking to drive more traffic to their website should conduct a Domain Analysis assessment to determine where their website ranks in a SERP (Search Engine Results Page).  The greater their Domain Authority (DA) in a particular subject or industry, the higher their website will display on the SERP PageRank.
+Four Factors in Achieving Domaine Authority:
+1. The prestige of a Website and its Authors – The importance of a website, or Node, is determined by how other prestigious websites (Nodes) point to that site.  It is based on quality and quantity.  In addition, the prestige of the authors of the website is taken into consideration.  Twitter and Google Plus profiles are looked at here, and the prestige of those authors who quote or reference them.   Other domain factors include link-diversification, link-dynamics, backlinks, public availability of whois of the domain owner, domain age, and volatility of the ownership to assess their prestige and organic traffic to a site congruent to its prestige.
+2. Quality of Information – In short, Quality of Information is the value the information provides to the reader.  This includes accuracy, objectivity, reliability, relevance, value-add, authenticity, completeness, format, coherence, accessibility, style, grammatical correctness, and more.
+3. Website Centrality – This refers to the outgoing links of a website.  Outgoing links on a website should point to and direct readers to other prestigious websites.
+4. Competitive Situation Around a Subject – SERP also looks at the website's competitiveness in a specific sector.  A website must outperform and be more prestigious than its competitors in a comparable industry or subject to achieve Domain Authority.     
+Moz Free Keyword Explorer Tool – Keyword research tools look for and identify words, terms, and phrases that users enter when searching for specific products, services, and other information.  Keywords are related to queries that users in search engines ask.  There are three types of questions: 
+? Navigational Search Query – Users type in the exact website such as weather.com
+? Informational Search Query – Users type in a broad topic such as gaming systems
+? Transactional Search Query - Here, users are looking to make a purchase and will use terms like buy, order, or download 
+The Keyword search tool will first search for keywords and then align a website with these keywords to improve SERP rankings.  Once a niche keyword is discovered, it is expanded upon to find similar, alternative phrases and alternately spelled keyword suggestions.  All of this is designed to increase SERP and direct traffic to the website.
+Moz Free Link Explorer Tool – The Moz Link Explorer tool will help find websites that link to your site.  It should be noted that some links will help your SERP ranking while others can damage your ranking.  
+Link Explorer analyzes the hyperlinks found on other websites that direct users to your website.  These hyperlinks, known as “backlinks," guide traffic to your site, thus boosting your SEO.  You can use the Link Explorer results to get an in-depth look at your site and analyze the links that direct people to you.  You can also make necessary updates to links that may negatively impact your SERP results.
+Why Should You Do a Link Analysis?
+If you have taken all the proper steps to optimize your website SEO but still have issues with higher SERP rankings, you may want to consider running the Moz Link Explorer.  You may find links lowering your SEO rankings by doing so.  Smaller websites with very few links will probably not show many issues, but as websites grow and links increase, it is a good idea to conduct such efforts every quarter.  
+ What to be Aware of
+When conducting a Link Explorer analysis for your SEO, look for both good and bad links.  Good links come from other websites that will increase Google’s trust in your website, in turn boosting your SEO.
+Conversely, a bad link will cause Google to lose trust in you, thus lowering our SERP rank.  For example, if the link comes from a website with nothing or little to do with your niche or topic, that doesn't look good.  Be sure that your links come from reputable sites that show that you’re an expert in your field.  As a result, Google will be more likely to show your links in SERPs.  Also, when analyzing your links, it’s a good idea to look at the associated backlink text to your site.  Appropriate associated text will build credibility to the page your link is pointing to and will look less like spam.    
+ 
+
+The Benefits of Link Explorer
+Link Explorer offers several benefits for increasing your SEO results.  Analyzing your links is vital when initiating link-building campaigns, as it's essential only to have links from reputable sites.  Link Explorer can help you realize and disavow that link before it hurts your SERP if you end up with a backlink from a sketchy website.
+Link Explorer also enables you to analyze your competitor’s links.  If their websites are outperforming your SEO through links and sources you don't have, you may want to try to get those same links.
+Moz Free Competitive Research – With Moz Competitive Research, you can enter any site to see an instant competitive analysis, including a list of your top SERP competitors and keyword & content opportunities.
+
+How to Move to Level 5
+[]  	Use the Moz Free Domain Analysis tool to increase your SERP, your website prestige, and further your Domain Authority in your industry 
+[]  	Use the free Moz Keyword Explorer tool to discover and implement the most appropriate and best searchable keywords to drive traffic to your website   
+[]  	Use the Moz Link Explorer tool to analyze your website links as well as backlinks to increase Google trust and increase SERP SEO 
+
+
+
+WEB PRESENCE SYSTEM - FOUNDATION
+Page 1 of 2
+		
+
+
+
+
+
+

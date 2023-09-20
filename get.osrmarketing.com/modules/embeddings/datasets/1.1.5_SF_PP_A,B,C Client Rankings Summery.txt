@@ -1,0 +1,24 @@
+
+A, B, C Client Rankings Summery
+Question
+We have a well graded client deck with an understanding of who are broken out into A, B, and C categories.
+Summery
+When starting out in an account manager role, whether principal lead or a full-time salesperson in that seat, it’s important to grade your client deck for several reasons.  First and foremost, not all clients are created equally.  As more MSP’s mature, a logical step is to start running Quarterly Business Revues (QBR’s) to strengthen the relationship with clients.  
+What To Measure
+As you go through this grading process, it’s important to note that not every client has a QBR every quarter due to size of MRR, mentality, or overall core value fit.  As a rule: 
+* “A” clients should have 4 QBR’s per year
+* “B” clients should have 2 QBR’s per year
+* “C” clients should have 1 QBR per year
+* If you have “D” clients, they should probably be fired from your client deck  
+In the Client A, B, C Rankings Excel sheet, located at 1.1.9.1_SF_PP_A,B,C Client Rankings, there are examples of what can be used during the grading process.  You may find that everything being measured in the sheet is relevant for you or you may want to tweak a few things.  
+The most important aspect of this exercise is to see where your clients sit and try to improve with all of them.  If someone is in “A”, how can you make them a raving fan that is willing to give testimonials?  If a client is a “B”, how can you make them an “A”?  If they’re a “C”, how can you make them a “B”?
+Generally, “C” clients are a smaller portion of your client deck that are demanding, late payers and only look at you as a cost, not an investment.  For this reason, if you can’t convert a “C” client to a “B” client, there is a strong argument that you should cut ties with them.
+Grading your client deck can also help you focus on where to start after you complete your Whitespace Analysis.  Depending on the numbers fall withing A, B or C, you should start with the letter that has the most clients in it to incrementally improve them.
+
+
+1.1.5_SF_PP_A,B,C Client Ranking Summery
+Page 1 of 4
+	
+
+
+

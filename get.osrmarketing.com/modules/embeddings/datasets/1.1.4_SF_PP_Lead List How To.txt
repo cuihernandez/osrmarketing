@@ -1,0 +1,37 @@
+
+How To Create a Lead List
+In today's competitive business world, finding potential customers or sales leads is crucial for the growth and success of any business.  However, building a sales lead list can be a daunting task, especially if you don't have a clear strategy. In this article, we will discuss some effective ways to build your list as well as important variables that you need to keep in mind.
+What Options are Available?
+The first step to building your list to decide what lead list service you want to use.  There are many options out there at varying price points.  And while each system may segment out lists in slightly different ways, you will need to keep in mind the parameters you are searching for as you dig into the different tool’s capabilities.  Examples of lead list tools are:
+* Data Axle Genie (formerly Sales Genie)- https://www.dataaxlegenie.com/ 
+* Hoovers/Dun & Bradstreet- https://www.dnb.com/products/marketing-sales/dnb-hoovers.html 
+* Hunter.io- https://hunter.io/ 
+* seamless.ai- https://seamless.ai/ 
+* Zoominfo- https://www.zoominfo.com/ 
+When choosing which company to use it is important to decide what exactly you need to get out of your list and one of those decisions will be around price.  Some companies are less costly however the business intelligence with the leads is not nearly as accurate.  Zoominfo, for example, is more expensive than most and usually has more up to date and accurate business intelligence.  No matter what you use, be aware that even the best lists go out of date, companies close, people move onto other opportunities, and given the self-reported nature of SIC and NIACS codes people misreport their verticals on a regular basis.  You can expect anywhere from 20%-40% of any list to include leads that need updated business intelligence.  This is where having someone updating leads through a combination of calling and marketing efforts is vitally important.
+Things to Consider When Filtering for Companies
+Once you have chosen what tool you are going to use the next step, and arguably the most important step, is to determine how you are going to filter a search.  Time spent deciding exactly what you are going to be filtering for will save you from frustration and wasted productivity later.  Here are things to consider:
+* Geographic Reach- Are you going to just decide and a radius around your office or another location?  Almost all platforms give you the ability to search by radius, zip codes, area codes, as well as give you the ability to draw out an area to pull from, among other options.
+* Company/Employee Size- It’s important to understand the size of your ideal client or what you want that ideal size to be.  As a service provider, keep in mind what MRR you need/want to have, and which sized companies are likely to be able to afford your services.  
+o Remember that some organizations are in a high growth mode and while they may seem a bit too small this year, they could very easily grow into a good target.  
+o Again, most/all list information is self-reported and because of that, people tend to overestimate the number of staff f that they have.  Put in a higher count for your floor
+* For example, if you are looking to pull a list of companies with 15-150 employees you should run a search for organizations with a minimum of 18 employees.  This will help to cut down on leads with too low of an employee count.
+* Target Industries and Verticals- Understanding types of companies you want to go after is critical.  Think of your client deck, what industries they’re in and other industries you’d like to move into.  
+o Most platforms let you search by industries, SIC codes and NIAC codes and get more specific from there.  For instance, manufacturing is broad and can mean anything from making food to microchips.  Make sure to drill down into each industry as you filter your list.  
+o This is an important step to not overlook as most platforms charge you per lead.  The more specific you can be, the better.  This will cut down on the cost and give you a cleaner list.   
+o Deciding what verticals to leave out of your search is just as important.  Do not just pull any company that fits your geographic reach and employee size requirements.  This will create a tremendous amount of “Not a Fit’s” and will create an unnecessary added expense. 
+* Lead With or Without Emails- 
+o Without Emails- Some platforms give you the opportunity to choose whether you want to download lists with or without emails.  If you decide to download a list without emails, it will be more cost effective but will create a longer ramp to season the list if someone is just calling on it.
+o With Emails- Although more expensive, downloaded a list with emails is usually the correct move.  This will give you the ability to not only have someone call one the list, it will also give you the ability to create email campaigns to support the calling efforts.  
+* When downloading lead lists with emails, always make sure to use a scrubbing site, such as Neverbounce- https://neverbounce.com/ or Zero Bounce- https://www.zerobounce.net/.  This will take out any @gmail, @yahoo, @hotmail, as well as will identify if business emails are still valid.  This is important because when you start emails campaigns, you don’t want to run the risk of being blacklisted.  Running a downloaded leads list and running through one of the sites listed above will save you that concern.
+
+
+
+
+
+1.1.4_SF_PP_Lead List How To	
+Page 1 of 1
+
+
+
+

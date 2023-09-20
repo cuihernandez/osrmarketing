@@ -1,0 +1,1 @@
+[10-Aug-2023 16:31:37 UTC] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in /home/osrmkt27/public_html/admin/js/plugins/kcfinder/core/class/session.php on line 49

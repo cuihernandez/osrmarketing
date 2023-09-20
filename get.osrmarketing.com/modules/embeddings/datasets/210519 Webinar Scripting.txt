@@ -1,0 +1,27 @@
+OSRManage
+
+Webinar Scripting
+
+Gatekeeper
+
+“Hi, my name is [Your Name] from [MSP name], how are you doing today? (acknowledge response).  We’re a local Managed Service Provider and we work with small to midsize businesses in the [city area].  We have an upcoming webinar and are inviting our local business neighbors who help to make IT decisions within their company. Would you be the person to speak with?”
+
+
+Decision Maker
+
+“Hi, [Prospect Name], this is [Your Name] from [Your Company]. We’ve found that our clients benefit from knowing how to better interact with their Sharepoint and we decided to share these best practices with other businesses as well. I wanted to be sure you had received the email and check to see if you had any questions before the webinar.”
+
+No, or I didn’t receive it: “Ok, let me verify your email, is it [Prospect Email]? Let me ask; Are you familiar with us?...
+
+Yes, but I didn’t read it: “Ok, Since I have you on the phone I’ll give you a quick overview. First of all, are you familiar with us?
+
+
+      Yes: “Great! Then you’ve heard…
+
+      No: “Ok, I’ll quickly introduce us then…
+
+We are an IT firm based out of [City] and we help businesses manage their networks to provide your business with more productive time in your day and increase revenues. How are you currently managing your networks?”
+
+Let Them Answer, Be Conversational
+
+Great! In addition to the educational value, we provide our clients with webinars such as this one, we can also help you in your situation. Along with the webinar invitation, I would love to have a deeper conversation with you and invite my CEO to learn more your business strategy and discuss how we can help. We have time on [Day/Time] or [Day Time], which of those times works best for you?

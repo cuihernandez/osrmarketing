@@ -1,0 +1,324 @@
+OSRManage
+
+MSP Common IT Terms & Definitions
+* Access point – a device that allows wireless-equipped computers and other devices to communicate with a wired network 
+* Address – identifies the location of an internet resource (ex: email address {info@yahoo.com}, web address {www.yahoo.com}, internet address / IP Address: 192.168.200.1)
+* Anti-Virus – software designed to detect and destroy computer viruses
+* Application – program designed for a specific purpose such as word processing or graphic design
+* Backup – process of making extra copies of data in case the original is lost or damaged. One can also take an image backup of an entire device that will literally duplicate that machine’s setup upon recovery 
+* Backup/Disaster Recovery (BDR) – 
+o Co-location – type of data center where equipment, space and bandwidth are available for rent (ex: IT Direct uses Back Up Exec and rents space for $0.50/GB)
+o Redundancy – complete replica of system settings, folder & file locations, permissions etc. that can be utilized at the loss of the main server 
+* Bandwidth – a measurement of the amount of data that can be transmitted over a network at any given time. The higher the network’s bandwidth, the greater volume of data that can be transmitted 
+* Break/Fix – when something is broken, an IT provider will fix it for an hourly fee 
+o This is a reactive approach to IT that MSP companies want to get clients away from and into a more proactive (monitored) business atmosphere 
+* Cable modem – device that connects a local cable TV line to provide a continuous connection to the Internet. Attaches to an Ethernet card inside the computer.
+* Cache – (pronounced like “cash”) refers to the region of computer memory where frequently accessed data can be stored for rapid access OR refers to an optional file on the hard drive where such data can also be stored
+* Cloud – accessing information offsite via the internet – general term used to describe internet services (i.e. social networking, online backup, specific browser applications) and computer networks that are connected over the internet for server redundancy and/or cluster computing purposes
+* Cookie – a small piece of information you may be asked to accept when connecting to certain servers via a web browser. Used through your online session to identify youself 
+* Central Processing Unit (CPU) – the part of a computer that oversees all operations and calculations
+* Data center – facility used to house computer systems and associated components (i.e. telecommunications and storage systems).  Generally includes backup, power supply, redundant data communications connections, environmental controls (AC/fire suppression) and security devices
+* Devices - desktops, laptops, tablets, anything that is connected to the network, most commonly utilized by an end user, does not include printers, scanners, etc. 
+* Disaster Recovery – a set of policies and procedures to enable the recovery or continuation of vital technology infrastructure and systems following a disaster or outage
+* Ethernet – popular network technology that enables data to travel more quickly and consistently as a direct connection rather than wirelessly 
+* Firewall – a method of preventing unauthorized access to or from a particular network. Can be implemented on hardware and/or software
+* Hardware – physical components of a computer including the keyboard, monitor, disk drive and internal chips/wiring
+* Hardware as a Service (HaaS) – renting actual equipment for your IT needs (i.e. computers, servers etc.)
+o MRR plan where the client rents equipment from an IT company and that company covers all the maintenance for said hardware. This is a CNS style plan where all services and support are included but, at the end of the contract term, the hardware is returned to the IT company
+* Infrastructure as a Service (IaaS) – fundamental service model of cloud computing platforms (one of three: Platform as a Service [PaaS] and Software as a Service [Saas])
+o MRR plan where the client rents space on an IT company’s hardware to run the network backbone from the cloud. Network maintenance is generally included in this plan. 
+* Internet Service Provider (ISP) – organization or company that provides internet connectivity
+*  IT Network Assessment – the practice of gathering information, on part or all of an IT network infrastructure then presenting in a detailed report. Analyzes the current state (“health”) of technology and services and identifies areas that may need improvement or are in some need of application upgrade. 
+* Local Area Network (LAN) – network that extends over a small area (usually within one sq. mile or less) and connects a group of computers for the purpose of sharing resources (ex: programs, documents, printers). Shared files are often stored on a central file server. 
+* Malware – software programs designed to damage or do other unwanted actions on a computer (i.e. viruses, worms, Trojan horses, spyware).  The “Mal” stands for Malicious.  
+* Managed Service Provider (MSP) – IT company that manages and assumes responsibility providing a defined set of services to its clients, either proactively or as the MSP (not the client) determines that services are needed
+* Monthly Recurring Revenue (MRR) – normalized measurement with a constant value for each month of a subscription period
+* Network – a group of interconnected computers and other devices capable of exchanging information
+* Network Area Storage (NAS)- similar to a SAN, but holds much less data and files and thus significantly less expensive 
+* Network hub / Network switch– a common connection point for devices on the network to receive, process and forward data to the destination device
+* Pipe – originating line from the main internet source into a home or business
+* Remote desktop – Windows OS feature that allows you to have access to a Windows session from another computer in a different location
+* Remote Management Tool - provides IT companies the ability to support their clients remotely and not have to go to the client’s physical location for every issue 
+* Router – a device used for connecting two Local Area Networks – can filter packets (unit of transmission in data communications) and forward them according to a specified set of criteria
+* Server – a computer or computer program that manages access to a centralized resource or a service in a network. This can be a physical or virtual device (there must be one physical server to have any virtual).
+* Software – any program that performs a specific function (ex: word processing, spreadsheets, email) 
+* Spam Filter – automatic processing of incoming email messages to ensure they are from reputable / recognized sources
+* Storage Area Network (SAN) - a network of devices connected to a server that stores a large amount of data and files. These are generally not accessible through the regular network by regular devices.
+* Virtual CIO (Virtual IT Director) – collection of services based on the duties of key IT personnel in a large organization 
+* Virtual hosting – method for hosting multiple domain names on a computer using a single IP address. This allows one machine to share its resources (i.e. memory, processor cycles) to use its resources more efficiently
+* Virtual Private Network (VPN) – means of securely accessing resources on a network by connecting to a remote access server through the internet (or alternate network)
+* Virtualization - The partitioning of a servers’ resources (OS, CPU, hard drive) into multiple silos to allow it to perform multiple designated tasks.  “Tricking” a physical server into thinking it is 2 or more servers 
+* Wide Area Network (WAN) – group of networked computers covering a large geographical area (i.e. the internet) 
+
+
+
+
+
+
+
+
+
+
+
+
+Other IT Terms & Definitions
+
+Access
+Ability to use, create, modify, view, or otherwise manipulate information on a system.
+Access control
+Access control is the means by which the ability to use, create, modify, view, etc., is explicitly enabled or restricted in some way (usually through physical and system-based controls).
+Account
+The combination of user name and password that provides an individual, group, or service with access to a computer system or computer network.
+Administrative/special access account
+Privileged account that impacts access to an information system or that allows circumvention of controls in order to administer the information system.
+Anti-malware software
+Any software package that detects and/or removes malicious code. This can include anti-virus software and spyware protection.
+Areas containing critical infrastructure
+Facilities that contain information systems. The ASU Data Center is an example.
+Authentication
+The process of confirming a claimed identity. All forms of authentication are based on something you know, something you have, or something you are.
+* ‘Something you know’ is some form of information that you can recognize and keep to yourself, such as a personal identification number (PIN) or password.
+* ‘Something you have’ is a physical item you possess, such as a photo ID or a security token.
+* ‘Something you are’ is a human characteristic considered to be unique, such as a fingerprint, voice tone, or retinal pattern.
+Authorization
+The act of granting permission for someone or something to conduct an act. Even when identity and authentication have indicated who someone is, authorization may be needed to establish what actions are permitted.
+Availability
+The requirement that an asset or resource be accessible to authorized persons, entities, or devices.
+Backup
+Copy of files and applications made to avoid loss of data and facilitate recovery in the event of a system failure.
+Biometrics
+Methods for differentiating humans based upon one or more intrinsic physical or behavioral traits such as fingerprints or facial geometry.
+Biometric authentication
+Using biometrics to verify or authenticate the identity of a person.
+Business continuity plan (BCP)
+The documentation of a predetermined set of instructions or procedures that describe how an organization’s critical business functions will be sustained during and after a significant disruption.
+Centralized storage
+Storage on a central server made available over a network to users.
+Change
+Any implementation of new functionality, interruption of service, repair of existing functionality, and/or removal of existing functionality to an information system.
+Change management
+The process of controlling modifications to hardware, software, firmware, and documentation to ensure that information systems are protected against improper modification before, during, and after system implementation.
+Confidential
+The classification of data of which unauthorized disclosure/use could cause serious damage to an organization or individual.
+Confidentiality
+Characteristic of information indicating it is intended to be known by a limited set of people.
+Confidential information
+Information maintained by the organization that is exempt from disclosure under the provisions of the Public Records Act or other applicable state and federal laws. The controlling factor for confidential information is dissemination.
+Control
+Method used to reduce the probability of occurrence or the negative impact of the realization of a risk.
+Custodian
+Custodians ensure the effective and secure operation of the information owner’s systems.  See the OP 44 series of operating policies for more information.
+Data loss prevention
+Prevention of unnecessary exposure of protected information.
+Data owner
+See information owner.
+Digital certificate
+An electronic document which uses a digital signature to bind specially derived numerical information with an identity - such as the name of a person or an organization. Most often encountered on web sites using encryption (SSL/https).
+Digital signature
+Method of adding specially derived numerical information to a file or message (most often used as part of a digital certificate infrastructure).
+Digital data
+The subset of Data (as defined above) that is transmitted by, maintained, or made available in electronic media.
+Disclosure
+The act, intentional or otherwise, of revealing information that is otherwise held as confidential or protected.
+Disaster Recovery Plan (DRP)
+A written plan for processing critical IT applications in the event of a major hardware or software failure or destruction of facilities. Such plans are designed to restore operability of the target system, application, or computer facility.
+DMZ
+A DMZ, or demilitarized zone, is a physical or logical network that contains and exposes external-facing services to the Internet. 
+DNS
+The Domain Name System (DNS) is a naming system for computers, services, or other resources connected to a network that associates a name with an IP address.
+Electronic Information, Communication, and Technology (EICT)
+
+Includes information technology and any equipment or interconnected system or subsystem of equipment used to create, convert, duplicate, or deliver data or information.
+Other terms such as, but not limited to, Electronic Information Resources (EIR), Information and Communications Technology (ICT), Electronic Information Technology (EIT), etc. can be considered interchangeable terms with EICT for purposes of applicability for compliance with this rule.
+Electronic Information Resources (EIR)
+See Electronic Information, Communication, and Technology (EICT).
+Electronic mail (email)
+Any message, image, form, attachment, data, or other communication sent, received, or stored within an electronic mail system.
+Electronic mail system
+Any computer software application that allows electronic mail to be communicated from one computing system to another.
+Electronic media
+Any of the following: a) Electronic storage media including storage devices in computers (hard drives, memory) and any removable/transportable digital storage medium, such as magnetic tape or disk, optical disk, or digital memory card; or b) Transmission media used to exchange information already in electronic storage media. Transmission media include, for example, the internet (wide-open), extranet (using internet technology to link a business with information accessible only to collaborating parties), leased lines, dial-up lines, private networks, intranet, and the physical movement of removable/transportable electronic storage media.
+Emergency change
+When an unauthorized immediate response to imminent critical system failure is needed to prevent widespread service disruption.
+Encrypted data
+Data rendered unreadable to anyone without the appropriate cryptographic key and algorithm.
+Encryption
+Process of numerically changing data to enhance confidentiality. Data is obscured using a specific algorithm and key both of which are required to interpret the encrypted data.
+End user
+A person given authorization to access information on a system.
+Escrow
+Data decryption keys or passwords held in trust by a third party to be turned over to the user only upon fulfillment of specific authentication conditions.
+Exposure
+State during which a system’s controls do not adequately reduce risk that the information could be stolen or exploited by an unauthorized person.
+Firewall
+An access control mechanism that acts as a barrier between two or more segments of a computer network or overall client/server architecture, used to protect internal networks or network segments from unauthorized users or processes. Such devices include hardware that is placed in the network to create separate security zones, provide NAT, and create a point of access control.
+Hardening
+The process of making computer and network systems more resistant to tampering or malicious software.
+Incident
+Any set of circumstances in which the anticipated and configured delivery of a service is interrupted, delayed, or otherwise unavailable.
+Incident management
+Process of returning service as quickly and effectively as possible.
+Information custodian or custodian
+See Custodian.
+Information owner
+Responsible for specified information and establishing the controls for its collection, creation, processing, access, dissemination, and disposal. The owner of a collection of information is the person responsible for the business results of that system or the business use of the information. Where appropriate, ownership may be shared by managers of different departments.
+Information security
+Protecting information so that it can only be seen, changed, deleted or copied by an authorized person and only in ways and to places authorized to contain it.
+Information system
+The equipment and software such as files, computers, tablets, servers, hard drives, removable thumb drives, cloud storage, etc. used to collect, record, process, display, and transmit information.
+Information Resources Manager (IRM)
+* Authorized and accountable for the information systems to implement security policies, procedures, and guidelines to protect the information systems.
+Information Security Council
+Body assembled by the CIO that contains at least the CIO and Information Security Officer. Provides direction and management of the information security program and information technology risk management program.
+Information Security Officer (ISO)
+Responsible for administering the information security functions within the organization. The ISO is the  internal and external point of contact and internal resource for all information security matters. 
+Information security program
+The elements, structure, objectives, and resources that establish an information system’s security function.
+Integrity
+The accuracy and completeness of information and assets and the authenticity of transactions.
+Intellectual property
+Ideas for which property rights are recognized under patent, trademark, or copyright law. Usually a work originating from thought or an idea that is distinct, separate, clearly definable, and novel.
+Internet
+A global system interconnecting computers and computer networks. The computers and networks are owned separately by a host of organizations, government agencies, companies, and colleges.
+Intrusion detection system (IDS)
+Hardware or a software application that can be installed on network devices or host operating systems to monitor network traffic and host log entries for signs of known and likely methods of intruder activity and attacks. Suspicious activities trigger administrator alarms and other configurable responses.
+Lawful intercept
+The interception of data on the network by ISO and IT Networking and Telecommunications staff, in accordance with local law and after following due process and receiving proper authorization from the appropriate authorities.
+Local account
+Account that allows access only to a local system and uses that systems local authentication service.
+Local area network (LAN)
+A data communications network spanning a limited geographical area. It provides communication between computers and peripherals at relatively high data rates and relatively low error rates.
+Local storage
+Storage that is physically local to the workstation or server.
+Malicious code
+Software designed to infiltrate or damage a computer system without the owner’s informed consent. The expression is a general term used by computer professionals to mean a variety of forms of hostile, intrusive, or annoying software or program code including spyware, Trojan horses, viruses, and worms.
+Mission critical information system
+Information system defined to be essential to the organization’s function and which, if made unavailable, will inflict substantial harm to the organization.
+Network
+All associated equipment and media creating electronic transmission between any information system(s), such as wired, optical, wireless, IP, synchronous serial, telephony, etc.
+Offsite storage
+Based on data criticality, offsite storage should be in a geographically different location from the campus that does not share the same disaster threat event. Based on an assessment of the data backed up, removing the backup media from the building and storing it in another secured location on the campus may be appropriate.
+Owner
+See information owner.
+Password
+A string of characters used to verify or “authenticate” a person’s identity.
+Password complexity
+The characteristic of a password typically described by the number of characters, the size of the character set used, and the randomness with which those characters were chosen.
+Password strength
+Description of a password’s ability to resist being guessed or otherwise mathematically or cryptographically discovered.
+Patch
+A fix or update for a software program usually related to a security issue.
+Penetration Test
+A controlled attempt to circumvent the security of a network or computer system to test its ability to resist hacking.
+Perimeter security control
+The first layer of defense against malicious traffic that filters information between organization internal networks and the internet.
+Personally identifiable information
+Any information that alone or in conjunction with other information identifies an individual, including Social Security numbers, driver’s license numbers, military ID numbers, passport ID numbers, passwords/PINs, personal accounts, credit card numbers, protected health information, financial information, criminal history records, unpublished home addresses or phone numbers, biometric data, and any other information that is deemed confidential by law.
+Physical security
+Area of knowledge concerned with creating and enhancing the safety and security of a physical space and the physical assets contained therein.
+Physical security control
+Devices and means to control physical access to sensitive information and to protect the availability of the information. Examples are physical access systems (fences, mantraps, guards); physical intrusion detection systems (motion detector, alarm system); and physical protection systems (sprinklers, backup generator).
+PIN
+Personal identification number - typically associated with systems using a physical security card (ATMs) together with a short number to authenticate an individual.
+Plaintext data
+Data in a form readable by anyone having access to the system on which it is stored or to the network over which it is transmitted.
+Portable computing device
+Any handheld portable device capable of performing basic computer tasks such as chat, email, web browsing, and storing information - smart phones, tablet computers (iPads), and PDAs all fall into this definition.
+Production system
+Any Organization system, software, or application that is used in the daily operations of the Organization.
+Program
+Set of instructions written in a computer programming language that performs a specific set of related functions (Microsoft Word, et.al.).
+Protected information
+Any information provided protection by law, regulation, or other legal means which mandates the methods, controls, processes, and/or procedures to afford such protection. This includes Personally Identifiable Information (PII).
+Removable media
+Any storage device built and intended to be easily connected to and removed from a computer system - examples include memory sticks, pen drives, external hard drives, and CD/DVDs.
+Resolution
+Returning service through the implementation of a permanent solution or a workaround.
+Risk
+Potential that a given set of circumstances and actions will lead to an undesirable outcome - in terms of information this means loss of one or more of (confidentiality, availability, and integrity).
+Residual risk
+Any risk remaining once controls have been applied.  The amount of residual risk allowed will be determined by the organization’s tolerance for risk.
+Risk assessment
+The process of identifying, evaluating, and documenting the level of impact that may result from the operation of an information system on an organization’s mission, functions, image, reputation, assets, or individuals. Risk assessment incorporates threat and vulnerability analyses and considers mitigations provided by planned or current security controls.
+Risk management
+Decisions to accept risk exposures or to reduce vulnerabilities and to align information system risk exposure with the organization’s risk tolerance.
+Root access
+Most privileged access to a computer system allowing the use, change, and deletion of any and all configuration information, system software, and data.
+Scheduled change
+Formal notification received, reviewed, and approved by the review process in advance of the change being made.
+Scheduled outage
+Any previously agreed upon period in which a system is not available for normal use. This typically requires specific methods of discussion, approval and scheduling (Change Management).
+Security administrator
+The person charged with monitoring and implementing security controls and procedures for a system. Whereas each organization will have one information security officer, technical management may designate a number of security administrators.
+Security incident
+Any incident in which the secure configuration of a system has been compromised.
+Security incident management
+Area of incident management focused on controlling and correcting vulnerabilities, exposures, and compromise of the secure configuration of any system.
+Sensitive information
+Information maintained by the organization that requires special precautions to protect it from unauthorized modification or deletion. Sensitive information may be either public or confidential. It is information that requires a higher than normal assurance of accuracy and completeness. The controlling factor for sensitive information is that of integrity.
+Server
+Any computer providing a service over the network. Services include, but are not limited to: website publishing, SSH, chat, printing, wireless access, and file sharing.
+Single sign-on
+Ability for a user to sign in once and have that sign-in allow access to multiple information systems without the need for providing a username and password for each separate system.
+Spyware
+Software that is installed surreptitiously on a computer to intercept or take partial control over the user’s interaction with the computer, without the user’s informed consent. While the term suggests software that secretly monitors the user’s behavior, the functions of spyware include collecting various types of personal information, interfere with control of the computer, changing computer settings, and redirecting web browser activity.
+Strong password
+A strong password is constructed so that it cannot be easily guessed by another user or a “hacker” program. It is typically a minimum number of positions in length and contains a combination of alphabetic, numeric, or special characters and should not be linked to any personal information such as a birth date, Social Security number, and so on.
+System administrator
+Person responsible for the effective operation and maintenance of information systems, including implementation of standard procedures and controls, to enforce an organization’s security policy.
+Synchronization
+Process whereby information on two systems is shared so that each system’s copy is identical to the other.
+System
+In the context of IT, any device capable of performing complex functions to provide services by use of hardware, firmware, software, or other programming. Systems may include workstations, desktops, laptops, servers, routers, and switches.
+System hardening
+Process of enhancing the configuration of a system so that there is greater assurance the system can be used only by authorized users for authorized purposes.
+Test and development systems
+Systems used exclusively for testing or development of software and not used to directly support organization operations.
+Trojan
+Destructive programs-usually viruses or worms-that are hidden in an attractive or innocent-looking piece of software, such as a game or graphics program. Victims may receive a Trojan horse program by email or on portable media, often from another unknowing victim, or may be urged to download a file from a website.
+Unauthorized disclosure
+The intentional or unintentional revealing of restricted information to people who do not have a legitimate need to access that information.
+Unscheduled change
+Failure to present notification to the formal process in advance of the change being made. Unscheduled changes will only be acceptable in the event of a system failure or the discovery of a security vulnerability.
+Unscheduled outage
+Any period in which a system is not available for normal use and that lack of availability was not previously discussed, approved, and scheduled.
+UPS
+An uninterruptible power supply. An electrical apparatus that provides emergency power to a load when the input power source (usually commercial power) fails.
+Use/Using
+An umbrella term that includes the terms store, process, change, delete, read, and access (and their progressive forms).
+User
+An individual that is authorized by the information owner to access the resource, in accordance with the information owner’s procedures and rules. The user is any person who has been authorized by the information owner to read, enter, or update that information. The user is the single most effective control for providing adequate security.
+Username
+A pseudonym used by a user to access a computer system - typically based on the user’s legal name or some derivative thereof.
+Virtual private network (VPN)
+Encrypted connections over a larger network, typically over the Internet, which simulates the behavior of direct, local connections.
+Virus
+A computer virus refers to a program that enters your computer—often through email or Internet downloads—and makes copies of itself, spreading throughout your computer and files. There is a wide range of computer viruses out there. They can be anything from merely annoying to horribly damaging—deleting files or making your computer inoperable. Viruses attach themselves to an application on a computer and aren’t actually executed until that application is accessed or run.
+Vulnerability
+Any exploitable aspect of a system or process.  
+Web page
+A document on the World Wide Web. Every web page is identified by a unique URL (uniform resource locator).
+Web server
+A computer that delivers (serves up) web pages.
+Website
+A location on the World Wide Web, accessed by typing its address (URL) into a web browser. A website always includes a home page and may contain additional documents or pages.
+Wireless networking
+Transmission of computer-based information over short to medium distances using radio frequencies.
+Wireless adhoc networking
+Wireless networking in which centralized authorization and infrastructure are not used - this is an unauthorized method of connecting systems to the organization network.
+World Wide Web
+Also referred to as “the Web.” A system of Internet hosts that supports documents formatted in HTML (hypertext markup language), which contain links to other documents (hyperlinks) and to audio, video, and graphic images. Users can access the Web with special applications called browsers, such as Firefox and Microsoft Internet Explorer.
+Worm
+A program that makes copies of itself elsewhere in a computing system. These copies may be created on the same computer or may be sent over networks to other computers. The first use of the term described a program that copied itself benignly around a network, using otherwise-unused resources on networked machines to perform distributed computation. Some worms are security threats, using networks to spread themselves against the wishes of the system owners and disrupting networks by overloading them. A worm is similar to a virus in that it makes copies of itself, but different in that it need not attach to particular files or sectors at all.
+
+
+
+
+
+OSR Manage
+IT Terms & Definitions
+
+
+
+
+

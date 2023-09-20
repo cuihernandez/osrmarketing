@@ -1,0 +1,106 @@
+
+Content and Planning Considerations – Running a Successful Webinar
+1. Discuss the topic for the webinar – this should be a specific idea
+2. Pick the format – AMA Style is the Easiest to build (Ask Me Anything)
+3. Choose your host(s) and panelists based on the topic
+a. For example:  
+i. If you bring in an industry expert – Owner is the Host.
+ii. If the Owner is the Expert – Salesperson is the host.
+4. Create the slides/talk tracks/Q&A – put a strong script for the webinar in place
+5. Promote - Promote -   Promote – spread the word
+6. Track the registrations – make follow up calls
+7. Host a tech rehearsal – do your dry run – look the part
+8. Run the webinar/keep the attendees engaged
+9. Follow up with those who attended after the webinar is complete
+
+Build – Execute - Call
+Topic Example:
+Cybersecurity Training – How to protect yourself at the business and user level 
+Why is it important for employees to have this training
+* Why is it important for the office or home office
+Hosts:  
+XXXXX and XXXXX
+Target Date and Time:
+Target Date:  XXXXXXXXX	Time: XXXXXXXXX
+Format:
+Zoom – Ask Me Anything
+Set up via Zoom (who is Host and Co-Host/Panelist)
+The host owns the webinar license and has the most control over the webinar in how it is scheduled, how it is set up, who can share video and audio, who is invited to listen and learn and what features are available. • The host can add a co-host as backup to help run and monitor the webinar session. 
+
+
+The co-host has the same permissions as the host except scheduling and setting up the webinar. The host can invite panelists who are able to share video, audio, and screen during the webinar. Attendees can join the webinar in listen and view-only mode by using a link that is shared by the host or from the registration page
+
+Schedule:  
+* Week 1 Email build up – pointing to landing page to register, framework of email complete
+o Topic –(?) and (?) to put together the actual content for the webinar – information for the slides/questions to ask (define who will do this)
+o List built for prospects/clients to send the webinar invite to (define who will do this)
+* Week 2 Finalize content - Release email to prospects/current clients
+* Week 3 (ten days prior to webinar) – calling efforts to follow up on email sent and remind them to register.
+o Post registrations follow up confirmation email
+o 1 week from webinar reminder email
+o 1 day before webinar reminder email
+o Day of webinar reminder email
+* Registrations will go to the person who set up the webinar/owner of the license
+o When someone registers – you will get a notification - you can also go in and check on who has registered by using the feature in Zoom
+o After the webinar is complete those who attended will be sent to you along with a recording.  
+o Day of/after webinar – Thank You For Attending email
+o 1 week after webinar – email with additional resources (if you have content to send)
+o Future Events – email
+
+Reminder mix in calls with emails sent
+General Information:
+Zoom Video Webinar allows you to broadcast a Zoom meeting to up to 10,000 view-only attendees, depending on the size of your webinar license. Webinar licenses start at a capacity of 100 participants and scale up to 10,000 participants.
+https://zoom.us/docs/doc/Zoom-Video-Webinars-FAQ.pdf
+
+What is the Average Webinar Attendance Rate? 
+The average webinar attendance rate depends on the size of your event. For webinars with 100 to 199 registrants, expect a live attendance rate of 47%. For events with 200 to 299, that attendance rate drops to 20%
+What is the Average Webinar Conversion Rate? 
+The average registrant to attendee conversion rate is 58%. Again, the size of your audience is what’s crucial here. A good webinar conversion rate — where registrants become attendees — can also range between 35% and 45%.
+
+In 2020, Thursday was the most popular day to attend a webinar by a two-point margin. Wednesday and Tuesday are also popular days to attend webinars. 
+While mid-week is still a strong performer for attendance, nearly any day of the workweek will net you a solid number of attendees. Experimenting with different webinar formats for different days of the week to optimize attendance is a good idea to see what works.
+What’s the Best Time to Hold a Webinar?
+According to ON24’s 2021 Webinar Benchmarks Report, the best time to run webinars is at 11 a.m. Pacific (2 p.m. Eastern). This remains true, though there are a few shifts to consider when it comes down to timing your events.
+The best time for a webinar is one that fits in with the schedule of your audience. Depending on the event or your audience, holding a webinar could work well early in the morning or later in the day. But, as a general rule, an hour before or after your region’s lunch hour works best.
+https://www.on24.com/resources/asset/on24-webinar-benchmarks-report-special-edition-post-covid-trends/
+
+Example Template:
+
+We are excited to announce an upcoming webinar arranged by Logicspeak moderated by XXXX and XXXX. On this webinar XXXX and XXXX will take us through a Cyber Security Training and the importance of empowering your employees to be the first line of defense against cyber-attacks. We will learn how to take your security to the next level by implementing basic processes during your daily business tasks. You will get a look at a unique offering made available by Logicspeak  - made with business owners and users of technology in mind.
+
+
+
+
+Things to Note:
+At the bottom of every email template that goes have a note about the webinar:
+
+P.S. we are hosting a FREE webinar on xxx about xxx ask me about it if interested!
+-OR-
+P.S. WE ARE HOSTING A WEBINAR ON XXX ABOUT XXX  - EMAIL ME TO LEARB MORE AND REGISTER
+-OR-
+P.S. Interested in an M365 management solution to help you save time and money? Here is a link to a recent webinar that we hosted on this exciting solution for MSPs: 
+Attach Video here of past webinar
+
+
+If a Zoom Account is Needed
+
+Zoom offers paid webinars that can support small to large-scale audiences. A webinar license always requires a meeting license in order to purchase.
+https://zoom.us/pricing/webinar
+2021
+PRO
+Great for Small Teams
+$149.90 /year/license
+* Host up to 100 participants
+* Increase participants up to 1,000 with Large Meetings add-on
+* Group meetings for up to 30 hours
+* Social Media Streaming
+* 1 GB Cloud Recording (per license)
+
+https://zoom.us/pricing
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+[21-Jul-2023 18:23:37 UTC] PHP Warning:  Undefined variable $config in /home/osrmkt27/public_html/admin/modules/categories/action.php on line 16
+[21-Jul-2023 18:23:37 UTC] PHP Warning:  Attempt to read property "demo_mode" on null in /home/osrmkt27/public_html/admin/modules/categories/action.php on line 16

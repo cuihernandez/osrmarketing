@@ -1,0 +1,33 @@
+
+
+Sales Excellence Sales & Marketing
+Question: 
+Vendor Relationship Management along with MDF usage and tracking, is set up.  A worksheet is used to track all vendors, and an MDF program has been established.
+Summary: 
+ATTACHMENT:
+Excel Starter MDF Worksheet
+When creating a sales and marketing department for your organization, one aspect that must not be overlooked-Marketing Development Funds (MDF).  MDF are funds available through the key vendors that will reimburse you for training, marketing, and sales expenses that will drive more sales for you and your vendor.
+Things to Consider: 
+The first step in developing a comprehensive MDF program is to audit your vendors.  MDF programs are time and labor-intensive, so it is only something that should be implemented with a few key vendors.  After you have discovered which of your vendors you do the most business with and those on which you earn the best margins, the next step is to research their channel partner programs.  To be eligible for MDF, your company must meet a specific membership status that typically meets certain revenue and certification requirements.
+Once you have identified the key vendors that you feel can bring value to your sales and marketing efforts, the next step is to research the details and process for applying for and receiving MDF from those vendors.  Every vendor will most likely have unique forms and submission deadlines that must be followed to be part of their program, and vendors will need to see a commitment to their product from your company before allocating MDFs.   Once that research is complete, you can begin planning your MDF-backed activities.
+Some examples of ways to leverage MDF are:
+Webinars, trade show booth space, email and social media campaign materials, and in-person marketing events.   In-person lunch and learn events are popular, and client-facing educational programs are best used when marketing to your current client deck.  While trade shows and webinars are often most effective when targeting new business.  Whatever marketing initiative you decide to plan, the first step in your process should be to reach out to your vendor partner and see what type of materials they can provide for your proposed event along with your proposed plan of action.  Your proposed action plan should include your asking both monetary on equipment (if needed), what exactly the event or campaign will be, the timeframe, and the expected ROI.
+Once approved and before you launch the campaign or run the event, you need to have a plan to follow up on the sales leads you to get from the MDF.  The sales department needs to designate an asset to send out thank you emails or cards along with phone calls to continue to move a prospect through the sales cycle that started for your channel partner marketing efforts.  One aspect that must not be neglected is reporting.  You must indicate in your CRM if the leads you obtain and any closed business came from channel partners.  This will help to strengthen the relationship between you and your channel partner and make obtaining additional MDFs easier in the future, as you will have demonstrated the value that partnering with you brings to the vendors.
+.  
+
+
+How to get to level 5: (Checklist of things to do to get to Level 5)
+[]	I have audited my partners and designated those I want to create MDF campaigns with
+My sales staff has created a process to follow up with and track all leads and business that comes from these efforts 
+[]	I have created a field in my CRM for tracking MDF-related leads
+
+
+
+MDF HOW TO
+Page 1 of 2
+		 
+
+
+
+
+

@@ -1,0 +1,33 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond %{REQUEST_URI} ^/admin/login$
+RewriteRule ^login$ ./login.php [L]
+
+RewriteCond %{REQUEST_URI} ^/admin/logout$
+RewriteRule ^logout$ ./logout.php [L]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/?$
+RewriteRule ^([a-z_]+)/?$ ./modules/%1/index.php [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/login/([0-9]+)/?$
+RewriteRule ^([a-z_]+)/login/([0-9]+)/?$ ./modules/%1/action.php?id=$2&action=login [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/edit/([0-9]+)/?$
+RewriteRule ^([a-z_]+)/edit/([0-9]+)/?$ ./modules/%1/form.php?id=$2&action=edit [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/delete/([0-9]+)/?$
+RewriteRule ^([a-z_]+)/delete/([0-9]+)/?$ ./modules/%1/action.php?id=$2&action=delete [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/action/?$
+RewriteRule ^([a-z_]+)/action/?$ ./modules/%1/action.php [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/add/?$
+RewriteRule ^([a-z_]+)/add/?$ ./modules/%1/form.php [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/view-chat/([0-9]+)/?$
+RewriteRule ^([a-z_]+)/view-chat/([0-9]+)/?$ ./modules/%1/view-chat.php?id=$2&action=view-chat [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/admin/([a-z_]+)/view-purchases/([0-9]+)/?$
+RewriteRule ^([a-z_]+)/view-purchases/([0-9]+)/?$ ./modules/%1/view-purchases.php?id=$2&action=view-purchases [L,QSA]

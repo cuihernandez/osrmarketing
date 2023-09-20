@@ -1,0 +1,2 @@
+[26-Aug-2023 13:23:51 UTC] PHP Warning:  file_get_contents(https://api.openai.com/v1/fine-tuning/jobs): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/osrmkt27/public_html/modules/fine_tuning/scripts/create_job.php on line 25
